@@ -1,10 +1,10 @@
-package com.FoodVaibhav;
+package com.SampleTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CheckazureApplicationTests {
+class SampleTestApplicationTests {
 
 	@Test
 	void contextLoads() {
